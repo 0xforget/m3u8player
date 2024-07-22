@@ -1,0 +1,11 @@
+{
+  "name": "m3u8player",
+  "version": "1.0.0",
+  "description": "A simple M3U8 player",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Nothing to build'"
+  },
+  "author": "your-name",
+  "license": "ISC"
+}
